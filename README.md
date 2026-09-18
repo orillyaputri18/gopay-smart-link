@@ -1,2 +1,2 @@
-# gopay-smart-link
+# index.html
 link aplikasi gopay
